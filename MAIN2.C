@@ -1,7 +1,9 @@
 /** TTT
     *  Programmed by : HENIL
+    *  Time: 2016
     *  All Rights Reserved
     *  Do not attempt to run code without programmer's permission.
+    *  IDE: TurboC
 */
 
 
